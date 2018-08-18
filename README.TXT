@@ -1,12 +1,11 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
+----------------------------------------------------------------------
+Este proyecto contiene el desarrollo de la Serie#2 de ejercicios de 
+programación establecidos para el bloque de estudios de Construcción
+de Software. Desarrollados mediante el Software BlueJ con Java como
+lenguaje de progrmación. 
+----------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: Solución Ejercicios Guía 2
+VERSION or DATE: 18/08/2018
+AUTHOR: Bafen Ricardo Barragán Sánchez.
+
